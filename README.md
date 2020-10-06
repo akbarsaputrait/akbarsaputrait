@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akbar Anung Yudha Saputra</h1>
-<h3 align="center">A passionate frontend developer from Malang, Indonesia</h3>
+<h3 align="center">A passionate frontend web developer from Malang, Indonesia</h3>
 
 - 🔭 I’m currently working on [Keeppack.id](https://keeppack.id/)
 
