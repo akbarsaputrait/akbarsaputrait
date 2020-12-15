@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akbar Anung Yudha Saputra</h1>
 <h3 align="center">A passionate frontend web developer from Malang, Indonesia</h3>
+<p>I'm a Junior Front-end Web Developer with 3+ years experience. I also an Informatics Student at University of Muhammadiyah Malang</p>
 
 - 🔭 I’m currently working on [Keeppack.id](https://keeppack.id/)
 
