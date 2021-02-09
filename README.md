@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend web developer from Malang, Indonesia</h3>
 <p>I'm a Junior Front-end Web Developer with 3+ years experience. I also an Informatics Student at University of Muhammadiyah Malang</p>
 
-- 🔭 I’m currently working on [Keeppack.id](https://keeppack.id/)
+- 🔭 I’m currently working as a Freelance
 
 - 🌱 I’m currently learning **Angular 10 & Nuxt.js**
 
