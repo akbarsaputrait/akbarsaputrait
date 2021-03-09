@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [http://akbarsaputrait.github.io/](http://akbarsaputrait.github.io/)
 
-- 📫 How to reach me **akbarsaputrait@outlook.com**
-
 - ⚡ Fun fact **I love photography & playing games**
 
 <p align="left">
