@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a Freelance
 
-- 🌱 I’m currently learning **Angular 10 & Nuxt.js**
+- 🌱 I’m currently learning **Angular 10, Nuxt.js, & Flutter**
 
 - 👨‍💻 All of my projects are available at [http://akbarsaputrait.github.io/](http://akbarsaputrait.github.io/)
 
