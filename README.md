@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 , I'm Akbar Anung Yudha Saputra</h1>
 <h3 align="center">A passionate frontend web developer from Malang, Indonesia</h3>
-<p>I'm a Front-end Web Developer with 3 years experience. I also an Informatics Student at University of Muhammadiyah Malang</p>
+<p>I'm a Front-end Web Developer with 3 years experience. I also an Informatics Student at University of Muhammadiyah Malang and work as a Squad Leader at PT. Solusi Sinergi Digital</p>
 
 - 🌱 I’m currently learning **Angular, Nuxt.js, & Flutter**
 
