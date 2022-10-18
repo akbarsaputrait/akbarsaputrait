@@ -25,3 +25,7 @@
 [![](https://img.shields.io/badge/@akbarsaputrait-informational?style=for-the-badge&logo=Twitter&logoColor=white&color=0078d6)](https://twitter.com/akbarsaputrait)
 [![](https://img.shields.io/badge/akbarsaputrait-informational?style=for-the-badge&logo=Instagram&logoColor=white&color=e1306c)](https://www.instagram.com/akbarsaputrait/)
 [![](https://img.shields.io/badge/akbarsaputrait-informational?style=for-the-badge&logo=Linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/in/akbarsaputrait/)
+
+
+## Holopin Badges
+[![@akbarsaputrait's Holopin board](https://holopin.io/api/user/board?user=akbarsaputrait)](https://holopin.io/@akbarsaputrait)
