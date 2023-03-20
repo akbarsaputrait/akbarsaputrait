@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 , I'm Akbar Anung Yudha Saputra</h1>
 <h3 align="center">A passionate frontend web developer from Malang, Indonesia</h3>
-<p>I'm a Front-end Web Developer with 3 years experience. I also an Informatics Student at University of Muhammadiyah Malang and work as a Squad Leader at PT. Solusi Sinergi Digital</p>
+<p>I'm a Front-end Web Developer with 3 years experience. I also an Informatics Student at University of Muhammadiyah Malang and work as a Squad Leader at PT. Solusi Sinergi Digital Tbk.</p>
 
 - 💻️ My equipments are **Linux Mint on Lenovo Thinkbook 14' also with Samsung 24' S24R350**
 
