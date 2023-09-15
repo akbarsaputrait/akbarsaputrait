@@ -5,8 +5,8 @@
 
 - 💻️ My equipments are **Linux Mint on Lenovo Thinkbook 14' also with Samsung 24' S24R350**
 
-- 🌱 I’m currently learning **React**. But, i use **Angular, Nestjs, & Flutter (not to much)** for work
+- 🌱 I’m currently learning **React**. But, i use **Angular 10+ & Nestjs** for work
 
-- 👨‍💻 All of my projects are available at **[http://akbarsaputrait.github.io/](http://akbarsaputrait.github.io/)**
+- 👨‍💻 All of my projects are available at **[akbarsaputrait.github.io](https://akbarsaputrait.github.io/)**
 
 - ⚡ Fun fact **I love photography & playing games especially Dota 2**
