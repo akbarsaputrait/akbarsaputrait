@@ -8,3 +8,9 @@
 - 👨‍💻 All of my projects are available at **[akbarsaputrait.github.io](https://akbarsaputrait.github.io/)**
 
 - ⚡ Fun fact **I love photography & playing games especially Dota 2**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,angular,nuxt,nextjs,tailwind,nestjs,postgres,mysql,docker,bun" />
+  </a>
+</p>
